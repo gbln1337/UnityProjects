@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 62bc43f9b77a6494aa155c2ddcdb0883
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - ammoText: {instanceID: 0}
+  - healPrefab: {fileID: 6627635745039272903, guid: 6e36fab3a444e68489e5f001b5afa84c, type: 3}
+  - gribPrefab: {fileID: 6650530895599075783, guid: 6abc99b43f4c6604a9ed86d844c69079, type: 3}
+  - krapivaPrefab: {fileID: 1828384771956449571, guid: de0d0b00e5fc8a048911e3a954626ba2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

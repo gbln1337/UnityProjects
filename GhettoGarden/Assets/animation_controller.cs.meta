@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbf90508b3376694297d9f5a070f2f1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerAnimator: {fileID: 5866666021909216657, guid: 3538439f32e930145b958c84aa0e3d94, type: 3}
+  - gribAnimator: {instanceID: 0}
+  - krapivaAnimator: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
